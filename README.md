@@ -1,5 +1,5 @@
 # Biodata_Contributors
-Biodata Contributor Project Tugas Besar Pemrograman Berorientasi Objek
+Biodata Contributor Project Tugas Besar Pemrograman Berorientasi Objek kelas RB
 
 
 1. Rahmad Sidik_119140096
