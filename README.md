@@ -10,5 +10,5 @@ Biodata Contributor Project Tugas Besar Pemrograman Berorientasi Objek kelas RB
 Dosen Pengajar
 
 
-1. Ahmad Luky Ramdani
-2. Eko Dwi Nugroho
+1. Ahmad Luky Ramdani S.Komp., M.Kom
+2. Eko Dwi Nugroho, S.Kom., M.Cs.
